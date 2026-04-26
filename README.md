@@ -1,6 +1,8 @@
 # ipdforest
 Forest plot for individual patient data IPD meta-analysis (one stage) Use ipdforest With STATA 19
 
+https://www.youtube.com/watch?v=ZtbDukqCZ90
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
